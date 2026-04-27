@@ -5,22 +5,22 @@
 🔥 This analysis demonstrates how raw and messy data can be translated into organized and meaningful insights through structured data manipulation coupled with visual storytelling 
 
 🎯 Objectives:
-Clean and preprocess a real-world movie dataset,
-Handle missing values and inconsistencies,
-Analyze key metrics (budget, revenue, ratings, etc.),
-Identify trends and relationships between variables,
-Visualize findings using graphs and charts
+Clean/preprocess a real-world movie dataset,
+handle missing values and inconsistencies,
+analyze key metrics (budget, revenue, ratings, etc.),
+identify trends and relationships between variables,
+visualize findings using graphs and charts
 
 🛠️ Tools & Technologies:
 Python,
-Pandas,
-Matplotlib,
-Jupyter Notebook,
-PyCharm
+pandas,
+matplotlib,
+jupyter Notebook,
+pyCharm
 
 📊 Key Analysis Performed:
 Data cleaning and preprocessing,
-Filtering and selecting relevant data,
-Statistical summaries of movie features,
-Relationship analysis (e.g., budget vs revenue),
-Data visualization using line charts, bar charts, and scatter plots
+filtering and selecting relevant data,
+statistical summaries of movie features,
+relationship analysis (e.g., budget vs revenue),
+data visualization using line charts, bar charts, and scatter plots
